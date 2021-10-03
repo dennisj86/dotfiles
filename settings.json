@@ -81,6 +81,6 @@
     "ruby.intellisense": "rubyLocate",
     "workbench.startupEditor": "newUntitledFile",
     "files.autoSave": "afterDelay",
-    "window.zoomLevel": 2,
-    "workbench.colorTheme": "Ice Contrast Italic"
+    "workbench.colorTheme": "Ice Contrast Italic",
+    "window.zoomLevel": 2
 }
